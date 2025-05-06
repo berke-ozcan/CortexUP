@@ -4,4 +4,4 @@ Uygulama, çocukların dört işlem problemlerini çözmelerini ve sonuçları y
 
 Bu uygulama YZTA Hackathon 2025 için tasarlanmıştır. Yapımında Brain Age oyunundan esinlenilmiştir.
 
-Grup-31 Üyeleri: Mustafa Berke ÖZCAN
+Grup-110 Üyeleri: Mustafa Berke ÖZCAN
